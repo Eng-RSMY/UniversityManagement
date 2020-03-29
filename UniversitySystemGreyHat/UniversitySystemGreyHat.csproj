@@ -556,6 +556,7 @@
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="StyleSheet\Nav.css" />
+    <Content Include="StyleSheet\style.js" />
     <Content Include="StyleSheet\table.css" />
     <Content Include="StyleSheet\ViewResult.css" />
     <Content Include="Web.config" />
